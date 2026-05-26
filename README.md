@@ -1,5 +1,7 @@
 # Hacker News Desktop Wrapper
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 A modern, fast, and feature-rich desktop wrapper for Hacker News built with **PySide6 (Qt WebEngine)**. It integrates seamlessly into your desktop environment with system tray support, multi-profile isolation, and native shortcut controls.
 
 ---
@@ -84,3 +86,10 @@ python3 app.py --profile work
 * `icon.png`: Application logo.
 * `requirements.txt`: Python package dependencies.
 * `.gitignore`: Configured to ignore local environments (`.venv`), Python cache (`__pycache__`), and OS-specific files.
+* `LICENSE`: GNU General Public License v3.0.
+
+---
+
+## 📄 License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](file:///home/bedri/Projects/Hacker%20News%20Desktop%20App/LICENSE) file for details.
